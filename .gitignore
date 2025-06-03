@@ -1,0 +1,16 @@
+# Node.js関連（npm install で再生成できる）
+node_modules
+
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
+
+# ログファイルや一時ファイル
+.log
+
+# エディタ・IDE の設定ファイル（必要に応じて）
+.vscode
+.idea
+
+# p5-manager の一時キャッシュがある場合
+.cache
