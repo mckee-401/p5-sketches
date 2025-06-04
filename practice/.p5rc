@@ -1,6 +1,8 @@
 {
   "name": "practice",
   "projects": [
-    "test-sketch"
+    "test-sketch",
+    "my_icon",
+    "mouse-reaction"
   ]
 }

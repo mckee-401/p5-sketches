@@ -14,3 +14,5 @@ Thumbs.db
 
 # p5-manager の一時キャッシュがある場合
 .cache
+
+manual.txt
