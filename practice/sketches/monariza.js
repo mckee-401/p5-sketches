@@ -4,7 +4,7 @@ let img;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(255);
-  img = loadImage("pic/mona.jpg");
+  img = loadImage("img/mona.jpg");
   // 画像の読み込み
 }
 

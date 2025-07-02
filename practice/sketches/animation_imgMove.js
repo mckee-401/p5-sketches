@@ -4,10 +4,10 @@ let img0, img1, img2, img3, count, f;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   count = 0;
-  img0 = loadImage("pic/frame-0.png");
-  img1 = loadImage("pic/frame-1.png");
-  img2 = loadImage("pic/frame-2.png");
-  img3 = loadImage("pic/frame-3.png");
+  img0 = loadImage("img/frame-0.png");
+  img1 = loadImage("img/frame-1.png");
+  img2 = loadImage("img/frame-2.png");
+  img3 = loadImage("img/frame-3.png");
 }
 
 function draw() {
@@ -50,10 +50,10 @@ function draw() {
 // let speedSlider;
 
 // function preload() {
-//   img0 = loadImage("pic/frame-0.png");
-//   img1 = loadImage("pic/frame-1.png");
-//   img2 = loadImage("pic/frame-2.png");
-//   img3 = loadImage("pic/frame-3.png");
+//   img0 = loadImage("img/frame-0.png");
+//   img1 = loadImage("img/frame-1.png");
+//   img2 = loadImage("img/frame-2.png");
+//   img3 = loadImage("img/frame-3.png");
 // }
 
 // function setup() {
